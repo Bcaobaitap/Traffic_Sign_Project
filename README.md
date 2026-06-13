@@ -1,6 +1,6 @@
 # Hệ thống Nhận diện Biển báo Giao thông Việt Nam (YOLOv8)
 
-Đồ án xây dựng script tự động nhận diện và phân loại 58 loại biển báo giao thông chuẩn theo **QCVN 41:2019/BGTVT**. Dự án áp dụng mô hình kiến trúc dạng Pipeline, tách biệt hoàn toàn môi trường huấn luyện (Cloud) và môi trường thực thi (Local).
+Đề tài xây dựng script tự động nhận diện và phân loại 58 loại biển báo giao thông chuẩn theo **QCVN 41:2019/BGTVT**. Dự án áp dụng mô hình kiến trúc dạng Pipeline, tách biệt hoàn toàn môi trường huấn luyện (Cloud) và môi trường thực thi (Local).
 
 ## Cấu trúc Dự án
 - `models/best.pt`: Trọng số tối ưu nhất sau quá trình huấn luyện bằng GPU.
